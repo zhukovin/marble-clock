@@ -1,0 +1,49 @@
+Thanks so much for downloading this model!
+
+All you have to do is import the files from the main folder into your slicer, arrange, and hit print. 
+
+Some Parts need supports! They are labeled in the filename.
+
+This video shows you how to assemble the model: https://youtu.be/GmLEBhJY5ks
+
+If you have any questions or need any help while printing or assembling this piece, 
+please do not hesitate to reach out to me at jbvcreative@gmail.com
+
+You will need the following additional components to assemble this clock:
+
+11 3x10x4 bearings: https://geni.us/ytgU1tC
+M3 Screw Kit https://geni.us/CnX30
+32 0.5in ball bearings: https://geni.us/uLEbw
+Nema 17 Motor https://geni.us/IbL6D0
+1 GT2 Pulley https://geni.us/l3MG
+
+You will also need a way to drive the Stepper Motor:
+
+I recommend this board: https://geni.us/2sH7WYY
+Real Time Module (Optional): https://geni.us/rtKYLJT
+
+(Here is a really good tutorial for driving clocks with a stepper motor: https://www.youtube.com/watch?v=PR4PXR7RXEY&amp;t=253s)
+
+--Recommended print settings--
+PLA Material
+0.4mm nozzle
+0.2mm layer height
+15%-18% infill
+
+
+
+**This model was specifically designed for this material and print settings - I can't 
+guarantee it will work with other materials.  Feel free to email me if you have any questions
+
+If you would like to further support my channel, I would hugely appreciate it! To do so, you can subscribe to my youtube channel, follow me on instagram, or become a patreon member. Links are below:
+
+www.instagram.com/engineezy_
+www.youtube.com/@engineezy
+www.patreon.com/engineezy
+
+Disclaimer: These files are for personal use only and cannot be copied or sold. If you would like to sell printed versions of this file, you can do so by subscribing to a license through my patreon- patreon.com/jbvcreative 
+If you have any questions, feel free to reach out.
+
+
+
+©Engineezy
